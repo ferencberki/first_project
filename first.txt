@@ -1,1 +1,2 @@
 Hello Java Junior Academy!
+first day
